@@ -14,9 +14,9 @@ client = discord.Client()
 #////////////////// NFORMAÇÕES ////////////////////////////////
 token = ""
 
-id = ""
+id = "880819349923979376"
 
-senha = "exemplo"
+senha = "oin0321MA"
 
 
 
